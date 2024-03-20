@@ -1,0 +1,95 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'roboto';
+}
+
+.navselector{
+
+}
+
+.span{
+    color: rgba(255, 0, 0, 0.412);
+}
+
+label{
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+ form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* margin: auto; */
+    
+ }
+
+ button{
+    width: 25%;
+    height:2.5rem;
+    color: white;
+    background-color: gray;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    margin: auto;
+
+ }
+
+ .form{
+    margin: auto;
+    width: 90%;
+    background-color: rgba(128, 128, 128, 0.336);
+    padding: 25px;
+ }
+
+ input,select{
+    width: 93%;
+    height: 2.3rem;
+    
+ }
+
+
+
+.nav1{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    justify-content: flex-end;
+    margin-right: 40px
+    
+
+}
+.nav11{
+    background-color: rgba(128, 128, 128, 0.6);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.square2{
+    font-size: xx-large;
+}
+
+
+
+.contact{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.word{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+
+}
+
+.word11{
+    font-family: 'Times New Roman', Times, serif;
+}
+
